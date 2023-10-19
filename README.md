@@ -13,4 +13,6 @@ Date
 3. PopStandard.csv - populatia standard Europeana (2013)
 
    Sursa (3): https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-ra-13-028
+
+Standardizare.xlsx - exemplu de standardizare a ratelor mortalitatii prin metoda directa si metoda indirecta
  
