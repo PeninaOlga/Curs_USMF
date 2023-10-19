@@ -1,5 +1,5 @@
 # Curs_USMF
-Curs educational, USMF "Nicolae Testemitanu", 19 Octombrie 2023
+Olga Penina, Curs educational, USMF "Nicolae Testemitanu", 19 Octombrie 2023
 
 Aspectele metodologice ale analizei mortalitatii in "R"
 
@@ -14,5 +14,6 @@ Date
 
    Sursa (3): https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/ks-ra-13-028
 
-Standardizare.xlsx - exemplu de standardizare a ratelor mortalitatii prin metoda directa si metoda indirecta
+4. Standardizare.xlsx - exemplu de standardizare a ratelor mortalitatii prin metoda directa si metoda indirecta
+
  
